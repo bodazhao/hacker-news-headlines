@@ -39,5 +39,10 @@ export function createMarkdownList(items: HNItemModified[]) {
     `| ${x.score} | [${x.title}](${x.url}) | [${x.date}](${comments(x.id)}) |`
   ).join("\n");
 
-  return `<!-- BEGIN -->| :coffee: | Title | 💬 || --- | --- | --- |${list}<!-- END -->`;
+  return `
+<!-- BEGIN -->
+| :coffee: | Title | 💬 |
+| --- | --- | --- |
+${list}
+<!-- END -->`;
 }
