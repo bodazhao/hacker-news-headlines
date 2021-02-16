@@ -35,14 +35,9 @@ export function createMarkdownList(items: HNItemModified[]) {
     // if items.url doesn't exist (like an Ask HN story), use items.id instead
     return !x.hasOwnProperty("url") ? { ...x, url: comments(x.id) } : x;
   });
+  const list = arr.map((x) =>
+    `| ${x.score} | [${x.title}](${x.url}) | [${x.date}](${comments(x.id)}) |`
+  ).join("\n");
 
-  return `<!-- BEGIN -->
-    | :coffee: | Title | 💬 |
-    | --- | --- | --- |
-    ${
-    arr.map((x) =>
-      `| ${x.score} | [${x.title}](${x.url}) | [${x.date}](${comments(x.id)}) |`
-    ).join("\n")
-  }
-    <!-- END -->`;
+  return `<!-- BEGIN -->| :coffee: | Title | 💬 || --- | --- | --- |${list}<!-- END -->`;
 }
