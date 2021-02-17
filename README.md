@@ -13,10 +13,11 @@
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 624 | [What I Worked On](http://paulgraham.com/worked.html) | [16-02-2021](https://news.ycombinator.com/item?id=26155350) |
+| 643 | [What I Worked On](http://paulgraham.com/worked.html) | [16-02-2021](https://news.ycombinator.com/item?id=26155350) |
 | 464 | [SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president](https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R) | [15-02-2021](https://news.ycombinator.com/item?id=26138931) |
 | 857 | [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article) | [14-02-2021](https://news.ycombinator.com/item?id=26128752) |
 | 783 | [50 Years Ago, Sugar Industry Quietly Paid Scientists to Blame Fat (2016)](https://www.npr.org/sections/thetwo-way/2016/09/13/493739074/50-years-ago-sugar-industry-quietly-paid-scientists-to-point-blame-at-fat) | [13-02-2021](https://news.ycombinator.com/item?id=26126183) |
