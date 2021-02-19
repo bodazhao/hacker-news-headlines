@@ -8,6 +8,10 @@
 
 > List of the most upvoted stories on hacker news, updated daily ☕️
 
+Built with Deno and Github Actions
+
+_Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.com/)
+
 # List
 
 
