@@ -28,11 +28,13 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1684 | [Before buying a NYT subscription, here's what it'll take to cancel it](https://imgur.com/a/K8m7p2t) | [18-02-2021](https://news.ycombinator.com/item?id=26174269) |
-| 784 | [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171) | [17-02-2021](https://news.ycombinator.com/item?id=26165809) |
+| 774 | [Mars becomes the 2nd planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673) | [19-02-2021](https://news.ycombinator.com/item?id=26197280) |
+| 1756 | [Before buying a NYT subscription, here's what it'll take to cancel it](https://imgur.com/a/K8m7p2t) | [18-02-2021](https://news.ycombinator.com/item?id=26174269) |
+| 804 | [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171) | [17-02-2021](https://news.ycombinator.com/item?id=26165809) |
 | 939 | [What I Worked On](http://paulgraham.com/worked.html) | [16-02-2021](https://news.ycombinator.com/item?id=26155350) |
 | 469 | [SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president](https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R) | [15-02-2021](https://news.ycombinator.com/item?id=26138931) |
 | 857 | [Statement on New York Times Article](https://astralcodexten.substack.com/p/statement-on-new-york-times-article) | [14-02-2021](https://news.ycombinator.com/item?id=26128752) |
