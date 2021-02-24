@@ -32,13 +32,15 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 871 | [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/) | [22-02-2021](https://news.ycombinator.com/item?id=26225201) |
-| 575 | [Choose Boring Technology (2015)](http://boringtechnology.club/) | [21-02-2021](https://news.ycombinator.com/item?id=26211721) |
-| 1648 | [Draw an iceberg and see how it would float in water](https://joshdata.me/iceberger.html) | [20-02-2021](https://news.ycombinator.com/item?id=26201160) |
-| 1175 | [Mars becomes the 2nd planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673) | [19-02-2021](https://news.ycombinator.com/item?id=26197280) |
+| 1147 | [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) | [23-02-2021](https://news.ycombinator.com/item?id=26237404) |
+| 1088 | [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/) | [22-02-2021](https://news.ycombinator.com/item?id=26225201) |
+| 590 | [Choose Boring Technology (2015)](http://boringtechnology.club/) | [21-02-2021](https://news.ycombinator.com/item?id=26211721) |
+| 1657 | [Draw an iceberg and see how it would float in water](https://joshdata.me/iceberger.html) | [20-02-2021](https://news.ycombinator.com/item?id=26201160) |
+| 1180 | [Mars becomes the 2nd planet that has more computers running Linux than Windows](https://twitter.com/mikko/status/1362763793042972673) | [19-02-2021](https://news.ycombinator.com/item?id=26197280) |
 | 1756 | [Before buying a NYT subscription, here's what it'll take to cancel it](https://imgur.com/a/K8m7p2t) | [18-02-2021](https://news.ycombinator.com/item?id=26174269) |
 | 804 | [Why did I leave Google or, why did I stay so long?](https://paygo.media/p/25171) | [17-02-2021](https://news.ycombinator.com/item?id=26165809) |
 | 939 | [What I Worked On](http://paulgraham.com/worked.html) | [16-02-2021](https://news.ycombinator.com/item?id=26155350) |
