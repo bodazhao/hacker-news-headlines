@@ -37,14 +37,16 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 484 | [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) | [27-02-2021](https://news.ycombinator.com/item?id=26284618) |
-| 1827 | [Show HN: Redbean – Single-file distributable web server](https://justine.lol/redbean/index.html) | [26-02-2021](https://news.ycombinator.com/item?id=26271117) |
-| 2505 | [The Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop) | [25-02-2021](https://news.ycombinator.com/item?id=26263508) |
-| 1706 | [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) | [24-02-2021](https://news.ycombinator.com/item?id=26251143) |
-| 1521 | [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) | [23-02-2021](https://news.ycombinator.com/item?id=26237404) |
+| 1455 | [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | [28-02-2021](https://news.ycombinator.com/item?id=26296339) |
+| 573 | [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) | [27-02-2021](https://news.ycombinator.com/item?id=26284618) |
+| 1933 | [Show HN: Redbean – Single-file distributable web server](https://justine.lol/redbean/index.html) | [26-02-2021](https://news.ycombinator.com/item?id=26271117) |
+| 2538 | [The Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop) | [25-02-2021](https://news.ycombinator.com/item?id=26263508) |
+| 1714 | [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) | [24-02-2021](https://news.ycombinator.com/item?id=26251143) |
+| 1524 | [Total Cookie Protection](https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/) | [23-02-2021](https://news.ycombinator.com/item?id=26237404) |
 | 1099 | [Daft Punk Break Up](https://pitchfork.com/news/daft-punk-call-it-quits/) | [22-02-2021](https://news.ycombinator.com/item?id=26225201) |
 | 590 | [Choose Boring Technology (2015)](http://boringtechnology.club/) | [21-02-2021](https://news.ycombinator.com/item?id=26211721) |
 | 1657 | [Draw an iceberg and see how it would float in water](https://joshdata.me/iceberger.html) | [20-02-2021](https://news.ycombinator.com/item?id=26201160) |
