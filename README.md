@@ -38,11 +38,13 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1455 | [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | [28-02-2021](https://news.ycombinator.com/item?id=26296339) |
-| 573 | [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) | [27-02-2021](https://news.ycombinator.com/item?id=26284618) |
+| 654 | [On the Experience of Being Poor-Ish, for People Who Aren't](https://residentcontrarian.substack.com/p/on-the-experience-of-being-poor-ish) | [01-03-2021](https://news.ycombinator.com/item?id=26300139) |
+| 3609 | [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | [28-02-2021](https://news.ycombinator.com/item?id=26296339) |
+| 585 | [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) | [27-02-2021](https://news.ycombinator.com/item?id=26284618) |
 | 1933 | [Show HN: Redbean – Single-file distributable web server](https://justine.lol/redbean/index.html) | [26-02-2021](https://news.ycombinator.com/item?id=26271117) |
 | 2538 | [The Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop) | [25-02-2021](https://news.ycombinator.com/item?id=26263508) |
 | 1714 | [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) | [24-02-2021](https://news.ycombinator.com/item?id=26251143) |
