@@ -40,13 +40,15 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 647 | [Apple Card Disabled My iCloud, App Store, and Apple ID Accounts](https://dcurt.is/apple-card-can-disable-your-icloud-account) | [02-03-2021](https://news.ycombinator.com/item?id=26310817) |
-| 1169 | [Are Xiaomi browsers spyware? Yes, they are (2020)](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../) | [01-03-2021](https://news.ycombinator.com/item?id=26306661) |
-| 3742 | [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | [28-02-2021](https://news.ycombinator.com/item?id=26296339) |
-| 591 | [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) | [27-02-2021](https://news.ycombinator.com/item?id=26284618) |
+| 939 | [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018) | [03-03-2021](https://news.ycombinator.com/item?id=26323852) |
+| 1049 | [Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html) | [02-03-2021](https://news.ycombinator.com/item?id=26319850) |
+| 1205 | [Are Xiaomi browsers spyware? Yes, they are (2020)](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../) | [01-03-2021](https://news.ycombinator.com/item?id=26306661) |
+| 3798 | [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/) | [28-02-2021](https://news.ycombinator.com/item?id=26296339) |
+| 593 | [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/) | [27-02-2021](https://news.ycombinator.com/item?id=26284618) |
 | 1933 | [Show HN: Redbean – Single-file distributable web server](https://justine.lol/redbean/index.html) | [26-02-2021](https://news.ycombinator.com/item?id=26271117) |
 | 2538 | [The Framework Laptop](https://frame.work/blog/introducing-the-framework-laptop) | [25-02-2021](https://news.ycombinator.com/item?id=26263508) |
 | 1714 | [My experience as a Gazan girl getting into Silicon Valley companies](https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1) | [24-02-2021](https://news.ycombinator.com/item?id=26251143) |
