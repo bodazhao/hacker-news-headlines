@@ -44,11 +44,13 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 465 | [Zero Data App](https://0data.app/) | [06-03-2021](https://news.ycombinator.com/item?id=26365835) |
-| 970 | [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/) | [05-03-2021](https://news.ycombinator.com/item?id=26362178) |
+| 690 | [NFTs Are a Dangerous Trap](https://seths.blog/2021/03/nfts-are-a-dangerous-trap/) | [07-03-2021](https://news.ycombinator.com/item?id=26373108) |
+| 694 | [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt) | [06-03-2021](https://news.ycombinator.com/item?id=26370572) |
+| 1007 | [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/) | [05-03-2021](https://news.ycombinator.com/item?id=26362178) |
 | 1664 | [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/) | [04-03-2021](https://news.ycombinator.com/item?id=26337046) |
 | 1025 | [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018) | [03-03-2021](https://news.ycombinator.com/item?id=26323852) |
 | 1099 | [Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html) | [02-03-2021](https://news.ycombinator.com/item?id=26319850) |
