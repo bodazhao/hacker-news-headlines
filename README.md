@@ -46,12 +46,14 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 636 | [“ISO obstructs adoption of standards by paywalling them”](https://twitter.com/TimSweeneyEpic/status/1368637789248626699) | [08-03-2021](https://news.ycombinator.com/item?id=26390040) |
-| 1331 | [Remembering Allan McDonald, who refused to approve the Challenger launch](https://text.npr.org/974534021) | [07-03-2021](https://news.ycombinator.com/item?id=26380822) |
-| 734 | [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt) | [06-03-2021](https://news.ycombinator.com/item?id=26370572) |
+| 925 | [I want a computer that I own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html) | [09-03-2021](https://news.ycombinator.com/item?id=26393824) |
+| 964 | [“ISO obstructs adoption of standards by paywalling them”](https://twitter.com/TimSweeneyEpic/status/1368637789248626699) | [08-03-2021](https://news.ycombinator.com/item?id=26390040) |
+| 1432 | [Remembering Allan McDonald, who refused to approve the Challenger launch](https://text.npr.org/974534021) | [07-03-2021](https://news.ycombinator.com/item?id=26380822) |
+| 743 | [Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge](https://github.com/dolthub/dolt#dolt) | [06-03-2021](https://news.ycombinator.com/item?id=26370572) |
 | 1028 | [30k U.S. organizations newly hacked via holes in Microsoft Exchange Server](https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/) | [05-03-2021](https://news.ycombinator.com/item?id=26362178) |
 | 1664 | [It Can Happen to You](https://www.mattkeeter.com/blog/2021-03-01-happen/) | [04-03-2021](https://news.ycombinator.com/item?id=26337046) |
 | 1025 | [NASA's Perseverance rover sends stunning images](https://www.bbc.com/news/in-pictures-56238018) | [03-03-2021](https://news.ycombinator.com/item?id=26323852) |
