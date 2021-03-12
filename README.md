@@ -48,10 +48,12 @@ _Want to see more than one story a day?_ Check out [hckrnews](https://hckrnews.c
 
 
 
+
 <!-- BEGIN -->
 | :coffee: | Title | 💬 |
 | --- | --- | --- |
-| 1084 | [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&) | [10-03-2021](https://news.ycombinator.com/item?id=26407323) |
+| 1284 | [I bought 300 emoji domain names from Kazakhstan and built an email service](https://tinyprojects.dev/projects/mailoji) | [11-03-2021](https://news.ycombinator.com/item?id=26422799) |
+| 1130 | [Fire declared in OVH SBG2 datacentre building](http://travaux.ovh.net/?do=details&id=49471&) | [10-03-2021](https://news.ycombinator.com/item?id=26407323) |
 | 983 | [I want a computer that I own](http://misc-stuff.terraaeon.com/articles/computer-i-own.html) | [09-03-2021](https://news.ycombinator.com/item?id=26393824) |
 | 996 | [“ISO obstructs adoption of standards by paywalling them”](https://twitter.com/TimSweeneyEpic/status/1368637789248626699) | [08-03-2021](https://news.ycombinator.com/item?id=26390040) |
 | 1432 | [Remembering Allan McDonald, who refused to approve the Challenger launch](https://text.npr.org/974534021) | [07-03-2021](https://news.ycombinator.com/item?id=26380822) |
